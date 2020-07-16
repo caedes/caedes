@@ -1,3 +1,3 @@
 ### Hello! 👋
 
-Actuellement référent techniqu front React à [Cdiscount](https://github.com/cdiscount).
+Actuellement référent technique front React à [Cdiscount](https://github.com/cdiscount).
