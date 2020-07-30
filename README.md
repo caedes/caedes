@@ -33,4 +33,4 @@ NodeJS / React / JavaScript / HTML / CSS / Ruby / Ruby on Rails / PHP
 [reactquery]: https://github.com/tannerlinsley/react-query
 [twitter]: https://twitter.com/caedes
 [linkedin]: https://www.linkedin.com/in/romainlaurent/
-[githubstats]: https://github-readme-stats.vercel.app/api?username=caedes&show_icons=true&hide_border=true
+[githubstats]: https://github-readme-stats.vercel.app/api?username=caedes&show_icons=true&hide_border=true&count_private=true&theme=synthwave&bg_color=fff&title_color=c792ea
